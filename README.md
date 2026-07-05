@@ -4,40 +4,59 @@
 
 # Historygram
 
-**Archive your Telegram history. Every message, every photo, every file — yours to keep.**
+**Walk into any Telegram group and own its entire history.**
+
+Full text messages, photos, videos, documents, audio, and voice messages — downloaded, organized, and searchable on your own machine.
 
 [![Latest Release](https://img.shields.io/github/v/release/inventabotnow/historygram-release?style=for-the-badge&label=version&color=2CA5E0)](https://github.com/inventabotnow/historygram-release/releases/latest)
 [![Downloads](https://img.shields.io/github/downloads/inventabotnow/historygram-release/total?style=for-the-badge&color=2CA5E0)](https://github.com/inventabotnow/historygram-release/releases/latest)
 [![Platform](https://img.shields.io/badge/platform-Windows%2010%2F11-2CA5E0?style=for-the-badge)](#)
 
-[**⬇ Download Latest Release**](https://github.com/inventabotnow/historygram-release/releases/latest)
+[**⬇ Download Historygram Free**](https://github.com/inventabotnow/historygram-release/releases/latest/download/Historygram.exe)
+
+**5 free downloads. No credit card required.**
 
 </div>
 
 ---
 
-## What is Historygram?
+## Stop Losing Content That Already Belongs to You
 
-Historygram is a Windows desktop app that downloads the **full history** of any Telegram group or channel you're a member of — every message and every piece of media — to your local machine. No installation, no Python, no setup beyond entering your own Telegram API credentials.
+You joined a Telegram group with years of history you can't scroll back to. Files get buried deeper every day, admins delete channels, and content disappears for good. Historygram pulls the entire archive — even from groups you joined five minutes ago, even from restricted channels — down to your hard drive before it's gone.
 
-## Features
+## What Historygram Archives
 
-- ✅ **Full Message History** — pulls every past message from a group or channel, not just what's cached locally
-- ✅ **All Media Types** — photos, videos, documents, audio, voice notes, animations
-- ✅ **Resume Anytime** — pause a download and pick up exactly where you left off
-- ✅ **Smart Rate Limiting** — automatic FloodWait handling so your account stays safe
-- ✅ **Live Progress** — real-time speed, ETA, and progress tracking
-- ✅ **Duplicate-Free** — a local database tracks what's already been downloaded
-- ✅ **Organized Output** — files are sorted by group and date automatically
+| | |
+|---|---|
+| 💬 **Text Messages** | Every conversation, tip, and link — saved as organized files you can search forever |
+| 🖼️ **Photos** | Every image ever shared in the group, at full original resolution |
+| 🎬 **Videos** | Tutorials, trainings, and clips downloaded at original quality before they vanish |
+| 📄 **Documents** | PDFs, spreadsheets, and guides the group shared months ago, ready in seconds |
+| 🎵 **Audio Files** | Music, lectures, and podcasts dropped in chat, captured before the group gets wiped |
+| 🎙️ **Voice Messages** | Every voice note recovered, in order, exactly as it was sent |
 
-## Getting Started
+## From Zero to Complete Archive in 4 Steps
 
-1. **[Download the latest `Historygram.exe`](https://github.com/inventabotnow/historygram-release/releases/latest)** — no installer, just run it.
-2. Get your free Telegram API credentials at [my.telegram.org](https://my.telegram.org) → *API development tools*.
-3. Launch Historygram, enter your `api_id` / `api_hash`, and log in with your phone number.
-4. Pick a group or channel and hit **Start Download**.
+If you can install an app and click a button, you already have every skill you need.
 
-That's it — your archive builds itself in the background.
+1. **Grab Historygram** — [free download](https://github.com/inventabotnow/historygram-release/releases/latest), no installer, running in under 2 minutes
+2. **Tell it what you want** — videos only, photos only, documents, or everything
+3. **Pick any group** — even ones you just joined, even restricted ones
+4. **Your archive is ready** — organized by date, searchable, yours forever
+
+## Pricing
+
+Historygram is free to try, with no credit card required:
+
+| | Free | PRO |
+|---|---|---|
+| **Downloads** | 5 total | Unlimited |
+| **All content types** (text, photos, videos, documents, audio, voice) | ✅ | ✅ |
+| **Restricted / protected content** | ✅ | ✅ |
+| **Full group history, any size** | ✅ | ✅ |
+| **Price** | $0 forever | One-time activation |
+
+Download 5 files from any group and see what you've been missing. If it doesn't change how you use Telegram, walk away — no strings attached. When you're ready for more, activate PRO from directly inside the app.
 
 ## System Requirements
 
@@ -51,13 +70,20 @@ That's it — your archive builds itself in the background.
 
 New versions are published automatically whenever the app is updated. Grab the latest build from the **[Releases page](https://github.com/inventabotnow/historygram-release/releases)** — each release contains a single file: `Historygram.exe`.
 
+## Coming Soon: Relaygram
+
+Historygram grabs everything posted **before** you arrived. Its companion app, **Relaygram**, will handle everything posted **after** — auto-forwarding new messages from any group to wherever you need them, running hands-free, 24/7.
+
+Use Historygram to archive the past, then let Relaygram capture the future automatically. Watch this space.
+
 ## A Note on Responsible Use
 
-Historygram is built for **personal archival** — backing up conversations and media from groups and channels you already belong to. Please:
+Historygram is designed for **lawful, personal archival** only. Please:
 
+- Always ensure you have proper consent from channel/group owners before downloading content
 - Respect copyright and the privacy of others in shared groups
 - Don't redistribute private or sensitive content without consent
-- Use it in line with Telegram's Terms of Service
+- Comply with all applicable laws and Telegram's Terms of Service
 
 ## Disclaimer
 
