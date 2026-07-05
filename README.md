@@ -70,11 +70,11 @@ Download 5 files from any group and see what you've been missing. If it doesn't 
 
 New versions are published automatically whenever the app is updated. Grab the latest build from the **[Releases page](https://github.com/inventabotnow/historygram-release/releases)** — each release contains a single file: `Historygram.exe`.
 
-## Coming Soon: Relaygram
+## Never Miss Another Message: Relaygram
 
-Historygram grabs everything posted **before** you arrived. Its companion app, **Relaygram**, will handle everything posted **after** — auto-forwarding new messages from any group to wherever you need them, running hands-free, 24/7.
+Historygram grabs everything posted **before** you arrived. Its companion app, **[Relaygram](https://github.com/inventabotnow/relaygram-release)**, handles everything posted **after** — auto-forwarding new messages from any group to wherever you need them, running hands-free, 24/7.
 
-Use Historygram to archive the past, then let Relaygram capture the future automatically. Watch this space.
+Use Historygram to archive the past, then let Relaygram capture the future automatically. **[Check out Relaygram →](https://github.com/inventabotnow/relaygram-release)**
 
 ## A Note on Responsible Use
 
